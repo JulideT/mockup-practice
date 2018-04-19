@@ -1,0 +1,115 @@
+div.container {
+    width: 100%;
+}
+
+h1 {
+  text-align: left;
+  margin: 0;
+  margin-bottom: 16px;
+  padding-top: 50px;
+}
+
+h2 {
+  text-align: left;
+  color: gray;
+  margin: 0;
+}
+
+h3 {
+   text-align: center;
+  margin: 0;
+  margin-top: 16px;
+}
+
+h4 {
+   text-align: center;
+  margin: 0;
+}
+p {
+    font-family: "Times New Roman" serif;
+    margin: 0px 0px 0px;
+}
+
+p.mid {
+    font-family: "Times New Roman" serif;
+  text-align: center;
+}
+
+p.it {
+    font-family: "Times New Roman" serif;
+  font-style: italic;
+}
+
+
+article {
+  float:left;
+  width: 70%;
+  margin: 16px;
+  padding: 0;
+}
+
+header {
+  padding: 1em;
+ background-color: black;
+  color: white;
+  clear: left;
+  text-align: left;
+}
+
+footer {
+  padding: 1em;
+ background-color: black;
+  color: white;
+  clear: left;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: lightgray;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: inline-block;
+    color: darkpurple;
+    text-align: center;
+    padding: 6px 26px;
+    text-decoration: underline;
+}
+
+li a:hover {
+    background-color: darkgray;
+}
+
+
+a {
+  float: right;
+  color: red;
+}
+
+a.left {
+  float: left;
+  color: red;
+}
+
+img {
+  width: 100%;
+}
+
+.boxed {
+  float:left;
+  width: 20%;
+  margin: 16px;
+  margin-right: 0px;
+  border-style: solid;
+  border-width:thick;
+  border-color: black;
+}
+</style>
+</body>
